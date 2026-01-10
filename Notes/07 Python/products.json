@@ -1,0 +1,16 @@
+[
+  {
+    "product_id": "E001",
+    "name": "Laptop",
+    "price": 999.99,
+    "type": "Electronics",
+    "warranty_months": 12
+  },
+  {
+    "product_id": "C001",
+    "name": "T-Shirt",
+    "price": 29.99,
+    "type": "Clothing",
+    "size": "Large"
+  }
+]

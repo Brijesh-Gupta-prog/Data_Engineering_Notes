@@ -1,0 +1,24 @@
+{
+  "month": "January 2024",
+  "sales": [
+    {
+      "product": "Laptop",
+      "quantity": 10,
+      "revenue": 9999.9
+    },
+    {
+      "product": "Mouse",
+      "quantity": 50,
+      "revenue": 1499.5
+    },
+    {
+      "product": "Keyboard",
+      "quantity": 30,
+      "revenue": 2399.7
+    }
+  ],
+  "summary": {
+    "total_revenue": 13899.1,
+    "total_quantity": 90
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Alice",
+    "student_id": "S001",
+    "age": 20,
+    "grade": "A"
+  },
+  {
+    "name": "Bob",
+    "student_id": "S002",
+    "age": 21,
+    "grade": "B"
+  },
+  {
+    "name": "Charlie",
+    "student_id": "S003",
+    "age": 19,
+    "grade": "A"
+  }
+]

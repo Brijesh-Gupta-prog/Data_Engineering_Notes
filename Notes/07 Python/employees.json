@@ -1,0 +1,26 @@
+[
+  {
+    "employee_id": "FT001",
+    "name": "Alice",
+    "email": "alice@company.com",
+    "hire_date": "2024-01-15",
+    "type": "FullTimeEmployee",
+    "salary": 75000
+  },
+  {
+    "employee_id": "PT001",
+    "name": "Bob",
+    "email": "bob@company.com",
+    "hire_date": "2024-02-01",
+    "type": "PartTimeEmployee",
+    "hourly_rate": 25.0
+  },
+  {
+    "employee_id": "FT002",
+    "name": "Charlie",
+    "email": "charlie@company.com",
+    "hire_date": "2024-01-20",
+    "type": "FullTimeEmployee",
+    "salary": 80000
+  }
+]

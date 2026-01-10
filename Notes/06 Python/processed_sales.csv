@@ -1,0 +1,8 @@
+Date,Product,Quantity,Price,Total,Customer
+2024-01-15,Laptop,2,999.99,1999.98,Alice
+2024-01-16,Mouse,5,29.99,149.95,Bob
+2024-01-17,Keyboard,3,79.99,239.96999999999997,Charlie
+2024-01-18,Laptop,1,999.99,999.99,Alice
+2024-01-19,Monitor,2,299.99,599.98,Diana
+2024-01-20,Mouse,10,29.99,299.9,Bob
+2024-01-22,Keyboard,2,79.99,159.98,Frank

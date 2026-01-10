@@ -1,0 +1,6 @@
+Date,Product_ID,Quantity,Price,Salesperson
+2024-01-15,P001,10.0,100,Alice
+2024-01-16,P002,5.0,200,Bob
+2024-01-17,P001,8.0,100,Alice
+2024-01-18,P003,12.0,150,Charlie
+2024-01-19,P002,,200,Bob
